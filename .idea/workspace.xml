@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6079d63-c88a-41b9-8bd3-fd741524f7f3" name="更改" comment="ddd">
+      <change afterPath="$PROJECT_DIR$/_talks/MAP-Neo Explain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_talks/picture/[MAP-Neo]Average Compression Rates by Category.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;J:/heiyonghua_homepage&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/qq下载/chat_boat/Chat_Web_main/Chat_Web_main&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,8 +56,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;JSON&quot;
+    ]
   }
 }</component>
   <component name="PyConsoleOptionsProvider">
@@ -173,6 +183,15 @@
       <workItem from="1705409900320" duration="1078000" />
       <workItem from="1705410992769" duration="4460000" />
       <workItem from="1705459326421" duration="4774000" />
+      <workItem from="1705474207468" duration="1235000" />
+      <workItem from="1705482463726" duration="3848000" />
+      <workItem from="1705564690837" duration="1194000" />
+      <workItem from="1709896197115" duration="1080000" />
+      <workItem from="1710588287504" duration="6000" />
+      <workItem from="1710814643486" duration="124000" />
+      <workItem from="1716541111416" duration="898000" />
+      <workItem from="1717046120597" duration="594000" />
+      <workItem from="1717376691973" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1701254826667</created>
@@ -328,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705473957872</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ddd">
+      <created>1705474243114</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705474243114</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ddd">
+      <created>1705474321933</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1705474321933</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,8 +381,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ddd" />
     <option name="LAST_COMMIT_MESSAGE" value="ddd" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/heiyonghua_homepage$publications.coverage" NAME="publications 覆盖结果" MODIFIED="1705460410152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/markdown_generator" />
   </component>
 </project>
